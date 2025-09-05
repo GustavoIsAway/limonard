@@ -1,0 +1,8 @@
+CompileFlags:
+  Add:
+    - --target=avr
+    - -mmcu=atmega328p
+    - -DF_CPU=16000000UL
+    - -I/usr/lib/gcc/avr/5.4.0/include
+    - -I/usr/lib/gcc/avr/5.4.0/include-fixed
+    - -I/usr/lib/gcc/avr/5.4.0/../../../avr/include

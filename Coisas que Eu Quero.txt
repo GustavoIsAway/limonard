@@ -1,0 +1,4 @@
+---Coisas que Eu Quero no Computador---
+* Mover cursor livremente pelo texto usando os direcionais.
+* Texto deslizante.
+* Apagar e adicionar texto dentro de outros textos.
